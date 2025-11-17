@@ -1,3 +1,4 @@
+
 # Stability-Analysis-using-Bode-Plot
 ## Aim:
 To analyse the stability of the system having open loop transfer function, G(S)=1/(S(1+0.5S)(1+0.1S)) using bode plot and verify it using MATLAB. 
